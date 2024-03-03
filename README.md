@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/bhupendranasare/](https://www.crio.do/learn/portfolio/bhupendranasare/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Material UI, Bootstrap**
+- 💬 Ask me about **Ask me about anything related to MERN stack and related technologies**
 
 - 📫 How to reach me **bhupendranasare@gmail.com**
 
